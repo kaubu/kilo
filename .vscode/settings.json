@@ -60,5 +60,11 @@
     "*.css": "css",
     "unistd.h": "c",
     "termios.h": "c"
-  }
+  },
+  "cSpell.words": [
+    "abuf",
+    "screencols",
+    "screenrows",
+    "welcomelen"
+  ]
 }
